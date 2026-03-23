@@ -1,0 +1,14 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE 和工具缓存
+.vscode/
+.ruff_cache/
+.idea/
+
+# 如果你的 json 文件是本地生成的私人数据或配置，建议也忽略掉
+# 如果是必须的默认配置模板，则不要忽略
+# pomodoro_data.json
+# pomodoro_config.json

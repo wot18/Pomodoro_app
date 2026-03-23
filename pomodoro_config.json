@@ -1,0 +1,7 @@
+{
+  "work_time": 25,
+  "short_break": 5,
+  "long_break": 20,
+  "pomodoros_before_long_break": 4,
+  "data_file": "pomodoro_data.json"
+}
